@@ -516,18 +516,4 @@
             <remote-destination host="${jboss.mail.server.host:localhost}" port="${jboss.mail.server.port:25}"/>
         </outbound-socket-binding>
     </socket-binding-group>
-    <deployments>
-        <deployment name="TestWebApp.war" runtime-name="TestWebApp.war">
-            <content sha1="4f0265905a868b4007e6f2d29ffe76a7c2e90294"/>
-        </deployment>
-        <deployment name="j1.war" runtime-name="j1.war">
-            <content sha1="5a986b949590cd8de4940d5d2e181f0713437cb5"/>
-        </deployment>
-        <deployment name="lab3.war" runtime-name="lab3.war">
-            <content sha1="49b882f0e286986313d424a5f16789b16449018d"/>
-        </deployment>
-        <deployment name="lab3-web.war" runtime-name="lab3-web.war">
-            <content sha1="56ea33a2989360f949abb8e62f24db3c8ae2f3ce"/>
-        </deployment>
-    </deployments>
 </server>
