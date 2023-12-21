@@ -1,0 +1,14 @@
+<Context>
+	<Resource 
+		name="jdbc/lab3"
+		auth="Container"
+		type="javax.sql.DataSource"
+		maxActive="20"
+		maxIdle="5"
+		maxWait="10000"
+		username="root"
+		password="sPii*9212"
+		driverClassName="org.postgresql.Driver"
+		url="jdbc:postgresql://localhost/lab3"
+	/>
+</Context>

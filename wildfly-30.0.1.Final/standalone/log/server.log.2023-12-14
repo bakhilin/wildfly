@@ -1,0 +1,644 @@
+2023-12-14 00:06:38,119 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:38,200 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:38,266 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:38,341 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:38,406 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:38,483 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:38,556 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:38,626 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:38,706 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:38,786 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:38,857 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:38,946 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:39,023 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:39,088 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:39,163 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:39,229 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:47,379 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:47,450 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:47,606 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:47,676 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:47,746 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:47,818 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:47,893 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:47,966 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:48,036 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:48,093 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:48,146 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:48,220 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:48,278 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:48,452 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:48,527 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:06:48,596 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:44,067 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\ee\fb3957b328d35f855393854a39ca071422ba1d\content
+2023-12-14 00:08:44,075 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-8) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 00:08:44,084 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 169) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 00:08:44,135 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-1) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 58ms
+2023-12-14 00:08:44,142 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-6) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 00:08:44,545 INFO  [org.jboss.weld.deployer] (MSC service thread 1-1) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 00:08:44,640 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-5) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 00:08:44,660 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-1) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 00:08:44,783 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 170) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 00:08:44,840 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 170) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 00:08:44,875 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 00:08:44,875 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\70\3fc5730801ddeb837f272d2c7b6e0dd4d6ab0d\content
+2023-12-14 00:08:48,329 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:48,425 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:48,485 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:55,895 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:55,965 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:56,035 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:56,117 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:56,185 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:56,249 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:56,325 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:56,395 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:56,467 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:56,641 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:56,708 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:56,806 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:56,880 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:08:56,945 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:09:01,696 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:09:01,770 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:09:01,837 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:09:01,911 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:09:01,976 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:09:02,050 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:09:02,125 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:09:02,193 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:09:02,372 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:09:02,545 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:09:02,621 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:09:02,702 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:09:02,778 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:09:02,859 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:06,689 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\02\06165f362031e45fe5e50f80eed58ada9ee5a6\content
+2023-12-14 00:21:06,697 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-6) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 00:21:06,697 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 170) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 00:21:06,722 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-8) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 28ms
+2023-12-14 00:21:06,727 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-2) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 00:21:07,017 INFO  [org.jboss.weld.deployer] (MSC service thread 1-4) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 00:21:07,087 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-4) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 00:21:07,112 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-1) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 00:21:07,247 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 176) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 00:21:07,317 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 176) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 00:21:07,343 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 00:21:07,347 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\ee\fb3957b328d35f855393854a39ca071422ba1d\content
+2023-12-14 00:21:21,573 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:21,679 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:21,757 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:31,292 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:31,357 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:31,431 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:31,530 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:31,602 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:31,668 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:31,848 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:31,931 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:32,007 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:32,010 INFO  [jakarta.enterprise.resource.webcontainer.faces.renderkit] (default task-1) WARNING: FacesMessage(s) have been enqueued, but may not have been displayed.
+sourceId=coordinate-form:j_idt18[severity=(ERROR 2), summary=(Y: Validation Error: Specified attribute is not between the expected values of -3 and 5.), detail=(Y: Validation Error: Specified attribute is not between the expected values of -3 and 5.)]
+2023-12-14 00:21:40,150 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:40,216 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:40,297 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:40,371 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:40,444 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:40,510 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:40,583 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:40,649 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:40,727 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:40,803 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:40,877 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:40,967 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:41,048 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:41,117 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:48,679 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:48,755 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:48,835 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:48,908 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:49,095 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:49,162 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:49,250 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:49,327 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:49,397 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:49,399 INFO  [jakarta.enterprise.resource.webcontainer.faces.renderkit] (default task-1) WARNING: FacesMessage(s) have been enqueued, but may not have been displayed.
+sourceId=coordinate-form:j_idt18[severity=(ERROR 2), summary=(Y: Validation Error: Specified attribute is not between the expected values of -3 and 5.), detail=(Y: Validation Error: Specified attribute is not between the expected values of -3 and 5.)]
+2023-12-14 00:21:53,794 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:53,899 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:53,973 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:54,038 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:54,121 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:54,186 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:54,259 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:54,331 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:54,397 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:54,458 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:54,558 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:54,618 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:54,683 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:21:54,746 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:31:50,965 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\0b\f4365d9e097417aad3dbe13ec8712ba0eec048\content
+2023-12-14 00:31:50,970 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-6) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 00:31:50,970 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 176) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 00:31:50,992 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-2) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 25ms
+2023-12-14 00:31:50,992 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-2) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 00:31:51,311 INFO  [org.jboss.weld.deployer] (MSC service thread 1-8) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 00:31:51,370 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-8) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 00:31:51,390 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-3) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 00:31:51,540 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 177) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 00:31:51,590 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 177) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 00:31:51,614 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 00:31:51,614 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\02\06165f362031e45fe5e50f80eed58ada9ee5a6\content
+2023-12-14 00:31:57,320 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:31:57,412 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:31:57,490 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:32:03,255 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:32:03,320 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:32:03,400 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:32:03,482 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:32:03,565 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:32:03,640 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:32:03,712 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:32:03,790 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:32:03,860 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:32:03,932 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:32:04,000 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:32:04,080 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:32:04,161 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:32:04,350 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 00:41:53,483 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\11\ee3812693defe3885b023207531ac20e57ea2c\content
+2023-12-14 00:41:53,508 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-2) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 00:41:53,514 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 180) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 00:41:53,598 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-2) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 93ms
+2023-12-14 00:41:53,603 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-7) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 00:41:53,956 INFO  [org.jboss.weld.deployer] (MSC service thread 1-2) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 00:41:54,034 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-1) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 00:41:54,056 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-5) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 00:41:54,277 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 177) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 00:41:54,453 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 177) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 00:41:54,474 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 00:41:54,474 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\0b\f4365d9e097417aad3dbe13ec8712ba0eec048\content
+2023-12-14 00:42:37,748 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\d2\5fc33adf5e374f964451e49db74828c603335c\content
+2023-12-14 00:42:37,748 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-8) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 00:42:37,748 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 177) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 00:42:37,778 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-2) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 27ms
+2023-12-14 00:42:37,780 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-3) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 00:42:38,143 INFO  [org.jboss.weld.deployer] (MSC service thread 1-6) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 00:42:38,193 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-6) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 00:42:38,216 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-6) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 00:42:38,333 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 186) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 00:42:38,389 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 186) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 00:42:38,413 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 00:42:38,421 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\11\ee3812693defe3885b023207531ac20e57ea2c\content
+2023-12-14 22:54:27,987 INFO  [org.jboss.modules] (main) JBoss Modules version 2.1.2.Final
+2023-12-14 22:54:31,654 INFO  [org.jboss.msc] (main) JBoss MSC version 1.5.2.Final
+2023-12-14 22:54:31,663 INFO  [org.jboss.threads] (main) JBoss Threads version 2.4.0.Final
+2023-12-14 22:54:31,829 INFO  [org.jboss.as] (MSC service thread 1-2) WFLYSRV0049: WildFly Full 30.0.1.Final (WildFly Core 22.0.2.Final) starting
+2023-12-14 22:54:31,833 DEBUG [org.jboss.as.config] (MSC service thread 1-2) Configured system properties:
+	file.encoding = Cp1251
+	file.separator = \
+	java.awt.headless = true
+	java.class.path = C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\jboss-modules.jar
+	java.class.version = 61.0
+	java.home = C:\Program Files\Java\jdk-17.0.5
+	java.io.tmpdir = C:\Users\79170\AppData\Local\Temp\
+	java.library.path = C:\Program Files\Java\jdk-17.0.5\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Amazon Corretto\jdk11.0.17_8\bin;C:\Program Files\Java\jdk-19\bin;C:\Program Files\jdk-19\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\ProgramData\ComposerSetup\bin;C:\Gradle\gradle-8.4\bin;C:\apache-maven-3.9.5\bin;C:\Users\79170\AppData\Local\Programs\Python\Python39\python.exe;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MiKTeX\miktex\bin\x64\;C:\Users\79170\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\79170\AppData\Local\Programs\Python\Python312\;C:\Users\79170\AppData\Local\Programs\Microsoft VS Code\bin;.
+	java.net.preferIPv4Stack = true
+	java.runtime.name = Java(TM) SE Runtime Environment
+	java.runtime.version = 17.0.5+9-LTS-191
+	java.security.manager = allow
+	java.specification.name = Java Platform API Specification
+	java.specification.vendor = Oracle Corporation
+	java.specification.version = 17
+	java.util.logging.manager = org.jboss.logmanager.LogManager
+	java.vendor = Oracle Corporation
+	java.vendor.url = https://java.oracle.com/
+	java.vendor.url.bug = https://bugreport.java.com/bugreport/
+	java.version = 17.0.5
+	java.version.date = 2022-10-18
+	java.vm.compressedOopsMode = 32-bit
+	java.vm.info = mixed mode, sharing
+	java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+	java.vm.specification.name = Java Virtual Machine Specification
+	java.vm.specification.vendor = Oracle Corporation
+	java.vm.specification.version = 17
+	java.vm.vendor = Oracle Corporation
+	java.vm.version = 17.0.5+9-LTS-191
+	javax.management.builder.initial = org.jboss.as.jmx.PluggableMBeanServerBuilder
+	jboss.home.dir = C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final
+	jboss.host.name = desktop-2prlef7
+	jboss.modules.system.pkgs = org.jboss.byteman
+	jboss.node.name = desktop-2prlef7
+	jboss.qualified.host.name = desktop-2prlef7
+	jboss.server.base.dir = C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone
+	jboss.server.config.dir = C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\configuration
+	jboss.server.data.dir = C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data
+	jboss.server.log.dir = C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\log
+	jboss.server.name = desktop-2prlef7
+	jboss.server.persist.config = true
+	jboss.server.temp.dir = C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\tmp
+	jdk.debug = release
+	jdk.serialFilter = maxbytes=10485760;maxdepth=128;maxarray=100000;maxrefs=300000
+	line.separator = 
+
+	logging.configuration = file:C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\configuration/logging.properties
+	module.path = C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\modules
+	native.encoding = Cp1251
+	org.jboss.boot.log.file = C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\log\server.log
+	org.jboss.resolver.warning = true
+	os.arch = amd64
+	os.name = Windows 11
+	os.version = 10.0
+	path.separator = ;
+	program.name = standalone.bat
+	sun.arch.data.model = 64
+	sun.boot.library.path = C:\Program Files\Java\jdk-17.0.5\bin
+	sun.cpu.endian = little
+	sun.cpu.isalist = amd64
+	sun.io.unicode.encoding = UnicodeLittle
+	sun.java.command = C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\jboss-modules.jar -mp C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\modules org.jboss.as.standalone -Djboss.home.dir=C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final
+	sun.java.launcher = SUN_STANDARD
+	sun.jnu.encoding = Cp1251
+	sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+	sun.os.patch.level = 
+	sun.stderr.encoding = cp866
+	sun.stdout.encoding = cp866
+	user.country = RU
+	user.dir = C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\bin
+	user.home = C:\Users\79170
+	user.language = ru
+	user.name = 79170
+	user.script = 
+	user.timezone = Europe/Moscow
+	user.variant = 
+2023-12-14 22:54:31,844 DEBUG [org.jboss.as.config] (MSC service thread 1-2) VM Arguments: -Dprogram.name=standalone.bat -Xms64M -Xmx512M -XX:MetaspaceSize=96M -XX:MaxMetaspaceSize=256m -Djava.net.preferIPv4Stack=true -Djboss.modules.system.pkgs=org.jboss.byteman -Djava.awt.headless=true -Djdk.serialFilter=maxbytes=10485760;maxdepth=128;maxarray=100000;maxrefs=300000 --add-exports=java.desktop/sun.awt=ALL-UNNAMED --add-exports=java.naming/com.sun.jndi.ldap=ALL-UNNAMED --add-exports=java.naming/com.sun.jndi.url.ldap=ALL-UNNAMED --add-exports=java.naming/com.sun.jndi.url.ldaps=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED --add-opens=java.base/java.lang.reflect=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.security=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.management/javax.management=ALL-UNNAMED --add-opens=java.naming/javax.naming=ALL-UNNAMED -Djava.security.manager=allow -Dorg.jboss.boot.log.file=C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\log\server.log -Dlogging.configuration=file:C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\configuration/logging.properties 
+2023-12-14 22:54:36,940 INFO  [org.wildfly.security] (ServerService Thread Pool -- 28) ELY00001: WildFly Elytron version 2.2.2.Final
+2023-12-14 22:54:41,720 INFO  [org.jboss.as.controller.management-deprecated] (ServerService Thread Pool -- 14) WFLYCTL0028: Attribute 'cluster' in the resource at address '/subsystem=ejb3/service=remote' is deprecated, and may be removed in a future version. See the attribute description in the output of the read-resource-description operation to learn more about the deprecation.
+2023-12-14 22:54:41,851 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creating http management service using socket-binding (management-http)
+2023-12-14 22:54:41,878 INFO  [org.xnio] (MSC service thread 1-8) XNIO version 3.8.11.Final
+2023-12-14 22:54:41,889 INFO  [org.xnio.nio] (MSC service thread 1-8) XNIO NIO Implementation Version 3.8.11.Final
+2023-12-14 22:54:41,974 INFO  [org.jboss.as.jaxrs] (ServerService Thread Pool -- 57) WFLYRS0016: RESTEasy version 6.2.6.Final
+2023-12-14 22:54:42,004 INFO  [org.wildfly.extension.elytron.oidc._private] (ServerService Thread Pool -- 53) WFLYOIDC0001: Activating WildFly Elytron OIDC Subsystem
+2023-12-14 22:54:42,010 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 55) WFLYCLINF0001: Activating Infinispan subsystem.
+2023-12-14 22:54:42,012 INFO  [org.wildfly.extension.health] (ServerService Thread Pool -- 54) WFLYHEALTH0001: Activating Base Health Subsystem
+2023-12-14 22:54:42,012 WARN  [org.jboss.as.txn] (ServerService Thread Pool -- 74) WFLYTX0013: The node-identifier attribute on the /subsystem=transactions is set to the default value. This is a danger for environments running multiple servers. Please make sure the attribute value is unique.
+2023-12-14 22:54:42,016 INFO  [org.wildfly.extension.microprofile.jwt.smallrye] (ServerService Thread Pool -- 66) WFLYJWT0001: Activating MicroProfile JWT Subsystem
+2023-12-14 22:54:42,062 INFO  [org.wildfly.extension.microprofile.config.smallrye] (ServerService Thread Pool -- 65) WFLYCONF0001: Activating MicroProfile Config Subsystem
+2023-12-14 22:54:42,068 INFO  [org.jboss.as.naming] (ServerService Thread Pool -- 67) WFLYNAM0001: Activating Naming Subsystem
+2023-12-14 22:54:42,111 INFO  [org.jboss.as.jsf] (ServerService Thread Pool -- 62) WFLYJSF0007: Activated the following Jakarta Server Faces Implementations: [main]
+2023-12-14 22:54:42,189 INFO  [org.wildfly.extension.metrics] (ServerService Thread Pool -- 64) WFLYMETRICS0001: Activating Base Metrics Subsystem
+2023-12-14 22:54:42,528 INFO  [org.jboss.as.webservices] (ServerService Thread Pool -- 76) WFLYWS0002: Activating WebServices Extension
+2023-12-14 22:54:42,744 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0003: Undertow 2.3.10.Final starting
+2023-12-14 22:54:42,791 INFO  [org.jboss.as.connector] (MSC service thread 1-4) WFLYJCA0009: Starting Jakarta Connectors Subsystem (WildFly/IronJacamar 3.0.4.Final)
+2023-12-14 22:54:42,822 INFO  [org.jboss.as.naming] (MSC service thread 1-4) WFLYNAM0003: Starting Naming Service
+2023-12-14 22:54:42,827 INFO  [org.jboss.as.connector.subsystems.datasources] (ServerService Thread Pool -- 44) WFLYJCA0004: Deploying JDBC-compliant driver class org.h2.Driver (version 2.2)
+2023-12-14 22:54:43,028 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-4) WFLYJCA0018: Started Driver service with driver-name = h2
+2023-12-14 22:54:43,142 WARN  [org.wildfly.extension.elytron] (MSC service thread 1-6) WFLYELY00023: KeyStore file 'C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\configuration\application.keystore' does not exist. Used blank.
+2023-12-14 22:54:43,193 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 75) WFLYUT0014: Creating file handler for path 'C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final/welcome-content' with options [directory-listing: 'false', follow-symlink: 'false', case-sensitive: 'true', safe-symlink-paths: '[]']
+2023-12-14 22:54:43,256 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-6) WFLYMAIL0001: Bound mail session [java:jboss/mail/Default]
+2023-12-14 22:54:43,263 WARN  [org.wildfly.extension.elytron] (MSC service thread 1-1) WFLYELY01084: KeyStore C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\configuration\application.keystore not found, it will be auto-generated on first use with a self-signed certificate for host localhost
+2023-12-14 22:54:43,320 INFO  [org.wildfly.extension.io] (ServerService Thread Pool -- 56) WFLYIO001: Worker 'default' has auto-configured to 12 IO threads with 96 max task threads based on your 6 available processors
+2023-12-14 22:54:43,493 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0012: Started server default-server.
+2023-12-14 22:54:43,503 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) Queuing requests.
+2023-12-14 22:54:43,508 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0018: Host default-host starting
+2023-12-14 22:54:43,538 INFO  [org.jboss.remoting] (MSC service thread 1-8) JBoss Remoting version 5.0.27.Final
+2023-12-14 22:54:43,538 INFO  [org.jboss.as.ejb3] (MSC service thread 1-3) WFLYEJB0482: Strict pool mdb-strict-max-pool is using a max instance size of 24 (per class), which is derived from the number of CPUs on this host.
+2023-12-14 22:54:43,538 INFO  [org.jboss.as.ejb3] (MSC service thread 1-2) WFLYEJB0481: Strict pool slsb-strict-max-pool is using a max instance size of 96 (per class), which is derived from thread worker pool sizing.
+2023-12-14 22:54:43,854 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0006: Undertow HTTP listener default listening on 127.0.0.1:8080
+2023-12-14 22:54:43,971 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0006: Undertow HTTPS listener https listening on 127.0.0.1:8443
+2023-12-14 22:54:44,112 INFO  [org.jboss.as.ejb3] (MSC service thread 1-1) WFLYEJB0493: Jakarta Enterprise Beans subsystem suspension complete
+2023-12-14 22:54:44,265 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-1) WFLYJCA0001: Bound data source [java:jboss/datasources/ExampleDS]
+2023-12-14 22:54:47,551 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-3) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 22:54:47,702 INFO  [org.jboss.as.server.deployment.scanner] (MSC service thread 1-3) WFLYDS0013: Started FileSystemDeploymentService for directory C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\deployments
+2023-12-14 22:54:48,954 INFO  [org.jboss.ws.common.management] (MSC service thread 1-8) JBWS022052: Starting JBossWS 7.0.0.Final (Apache CXF 4.0.0) 
+2023-12-14 22:54:50,503 INFO  [org.jboss.weld.deployer] (MSC service thread 1-6) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 22:54:51,405 INFO  [org.hibernate.validator.internal.util.Version] (MSC service thread 1-6) HV000001: Hibernate Validator 8.0.1.Final
+2023-12-14 22:54:51,876 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-4) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 22:54:51,937 INFO  [org.jboss.weld.Version] (MSC service thread 1-4) WELD-000900: 5.1.2 (Final)
+2023-12-14 22:54:52,010 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-6) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 22:54:53,509 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 80) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 22:54:53,942 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 80) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 22:54:54,091 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0010: Deployed "j1.war" (runtime-name : "j1.war")
+2023-12-14 22:54:54,175 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0212: Resuming server
+2023-12-14 22:54:54,184 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://127.0.0.1:9990/management
+2023-12-14 22:54:54,185 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0051: Admin console listening on http://127.0.0.1:9990
+2023-12-14 22:54:54,186 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Full 30.0.1.Final (WildFly Core 22.0.2.Final) started in 32852ms - Started 395 of 615 services (322 services are lazy, passive or on-demand) - Server configuration file in use: standalone.xml
+2023-12-14 22:55:14,858 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 22:55:14,978 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 22:55:15,055 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:06:44,736 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\46\1af0affc47cd242fe43c09ce7c644bad64c3f3\content
+2023-12-14 23:06:44,808 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-5) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:06:44,820 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 80) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 23:06:45,166 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-6) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 398ms
+2023-12-14 23:06:45,174 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-7) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 23:06:46,533 INFO  [org.jboss.weld.deployer] (MSC service thread 1-5) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 23:06:46,650 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-2) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 23:06:46,789 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-8) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:06:47,262 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 86) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 23:06:47,400 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 86) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 23:06:47,633 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 23:06:47,657 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\d2\5fc33adf5e374f964451e49db74828c603335c\content
+2023-12-14 23:06:52,040 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:06:52,190 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:06:52,295 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:06:56,395 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:06:56,455 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:06:56,551 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:06:56,740 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:06:56,807 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:06:56,890 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:06:57,020 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:06:57,130 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:06:57,250 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:06:57,269 INFO  [jakarta.enterprise.resource.webcontainer.faces.renderkit] (default task-1) WARNING: FacesMessage(s) have been enqueued, but may not have been displayed.
+sourceId=coordinate-form:j_idt18[severity=(ERROR 2), summary=(Y: Validation Error: Specified attribute is not between the expected values of -3 and 5.), detail=(Y: Validation Error: Specified attribute is not between the expected values of -3 and 5.)]
+2023-12-14 23:07:02,218 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:07:02,291 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:07:02,354 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:07:02,418 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:07:02,520 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:07:02,599 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:07:02,656 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:07:02,726 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:07:02,805 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:07:02,869 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:07:02,927 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:07:03,018 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:07:03,115 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:07:03,200 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:10:21,894 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\80\db123900a1ae15d8cd99442ef092dc74399755\content
+2023-12-14 23:10:21,907 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-5) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:10:21,920 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 89) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 23:10:21,976 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-8) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 71ms
+2023-12-14 23:10:21,978 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-1) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 23:10:22,725 INFO  [org.jboss.weld.deployer] (MSC service thread 1-3) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 23:10:22,866 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-5) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 23:10:22,919 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-4) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:10:23,518 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 91) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 23:10:23,703 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 91) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 23:10:23,777 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 23:10:23,784 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\46\1af0affc47cd242fe43c09ce7c644bad64c3f3\content
+2023-12-14 23:10:26,918 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:10:27,128 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:10:27,216 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:11:49,559 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\5b\fbd141c96353bab9a8113bae0e3cdd95d13a1c\content
+2023-12-14 23:11:49,562 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-6) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:11:49,562 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 91) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 23:11:49,615 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-5) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 53ms
+2023-12-14 23:11:49,617 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-4) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 23:11:50,002 INFO  [org.jboss.weld.deployer] (MSC service thread 1-4) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 23:11:50,093 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-4) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 23:11:50,129 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-2) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:11:50,501 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 95) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 23:11:50,586 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 95) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 23:11:50,631 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 23:11:50,633 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\80\db123900a1ae15d8cd99442ef092dc74399755\content
+2023-12-14 23:11:54,575 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:11:54,641 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:11:54,703 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:12:58,994 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\87\2fd8119dd7287e24135e6a46c16adea8179740\content
+2023-12-14 23:12:58,996 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-1) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:12:58,996 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 95) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 23:12:59,036 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-1) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 40ms
+2023-12-14 23:12:59,052 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-1) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 23:12:59,686 INFO  [org.jboss.weld.deployer] (MSC service thread 1-7) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 23:12:59,837 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-2) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 23:12:59,871 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-2) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:13:00,194 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 99) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 23:13:00,366 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 99) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 23:13:00,413 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 23:13:00,418 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\5b\fbd141c96353bab9a8113bae0e3cdd95d13a1c\content
+2023-12-14 23:13:03,533 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:13:03,672 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:13:03,773 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:19:03,952 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\16\a7027f886c2dbf070738e9abcf6996fc61ff1e\content
+2023-12-14 23:19:03,974 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-8) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:19:03,979 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 99) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 23:19:04,098 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-2) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 136ms
+2023-12-14 23:19:04,102 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-3) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 23:19:04,488 INFO  [org.jboss.weld.deployer] (MSC service thread 1-7) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 23:19:04,622 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-3) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 23:19:04,680 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-4) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:19:05,355 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 102) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 23:19:05,584 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 102) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 23:19:05,705 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 23:19:05,723 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\87\2fd8119dd7287e24135e6a46c16adea8179740\content
+2023-12-14 23:19:10,979 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:19:11,072 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:19:11,134 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:19:46,916 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\05\8c18dba4664ad7281994ed41d01e275e0182dc\content
+2023-12-14 23:19:46,917 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-5) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:19:46,921 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 104) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 23:19:46,973 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-5) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 55ms
+2023-12-14 23:19:46,976 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-4) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 23:19:47,527 INFO  [org.jboss.weld.deployer] (MSC service thread 1-5) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 23:19:47,613 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-6) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 23:19:47,656 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-4) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:19:47,821 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 107) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 23:19:47,884 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 107) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 23:19:47,937 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 23:19:47,939 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\16\a7027f886c2dbf070738e9abcf6996fc61ff1e\content
+2023-12-14 23:19:50,504 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:19:50,618 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:19:50,795 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:23:53,916 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\c5\cd8b60d25333488732765394912a631d753784\content
+2023-12-14 23:23:53,922 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-4) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:23:53,928 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 107) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 23:23:53,977 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-5) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 57ms
+2023-12-14 23:23:53,979 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-5) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 23:23:54,516 INFO  [org.jboss.weld.deployer] (MSC service thread 1-8) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 23:23:54,645 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-1) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 23:23:54,697 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-3) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:23:54,963 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 111) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 23:23:55,033 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 111) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 23:23:55,110 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 23:23:55,113 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\05\8c18dba4664ad7281994ed41d01e275e0182dc\content
+2023-12-14 23:23:59,238 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:23:59,324 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:23:59,402 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:41:52,336 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\d3\89a343d377b720237ae8f2ba28b069bac415d6\content
+2023-12-14 23:41:52,375 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-2) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:41:52,380 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 111) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 23:41:52,501 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-5) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 139ms
+2023-12-14 23:41:52,505 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-8) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 23:41:53,139 INFO  [org.jboss.weld.deployer] (MSC service thread 1-7) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 23:41:53,355 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-6) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 23:41:53,489 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-8) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:41:53,919 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 113) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 23:41:54,300 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 113) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 23:41:54,607 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 23:41:54,613 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\c5\cd8b60d25333488732765394912a631d753784\content
+2023-12-14 23:41:57,648 ERROR [io.undertow.request] (default task-1) UT005023: Exception handling request to /j1/main.xhtml: jakarta.servlet.ServletException: /main.xhtml @204,70 action="" Not a Valid Method Expression: 
+	at jakarta.faces.impl@4.0.4//jakarta.faces.webapp.FacesServlet.executeLifecyle(FacesServlet.java:709)
+	at jakarta.faces.impl@4.0.4//jakarta.faces.webapp.FacesServlet.service(FacesServlet.java:449)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at org.wildfly.security.elytron-web.undertow-server@4.0.0.Final//org.wildfly.elytron.web.undertow.server.ElytronRunAsHandler.lambda$handleRequest$1(ElytronRunAsHandler.java:68)
+	at org.wildfly.security.elytron-base@2.2.2.Final//org.wildfly.security.auth.server.FlexibleIdentityAssociation.runAsFunctionEx(FlexibleIdentityAssociation.java:103)
+	at org.wildfly.security.elytron-base@2.2.2.Final//org.wildfly.security.auth.server.Scoped.runAsFunctionEx(Scoped.java:161)
+	at org.wildfly.security.elytron-base@2.2.2.Final//org.wildfly.security.auth.server.Scoped.runAs(Scoped.java:73)
+	at org.wildfly.security.elytron-web.undertow-server@4.0.0.Final//org.wildfly.elytron.web.undertow.server.ElytronRunAsHandler.handleRequest(ElytronRunAsHandler.java:67)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:117)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.core@2.3.10.Final//io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.core@2.3.10.Final//io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.core@2.3.10.Final//io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at org.wildfly.security.elytron-web.undertow-server-servlet@4.0.0.Final//org.wildfly.elytron.web.undertow.server.servlet.CleanUpHandler.handleRequest(CleanUpHandler.java:38)
+	at io.undertow.core@2.3.10.Final//io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at org.wildfly.extension.undertow@30.0.1.Final//org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:44)
+	at io.undertow.core@2.3.10.Final//io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at org.wildfly.extension.undertow@30.0.1.Final//org.wildfly.extension.undertow.deployment.GlobalRequestControllerHandler.handleRequest(GlobalRequestControllerHandler.java:51)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.handlers.SendErrorPageHandler.handleRequest(SendErrorPageHandler.java:52)
+	at io.undertow.core@2.3.10.Final//io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:276)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:132)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at org.wildfly.extension.undertow@30.0.1.Final//org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1413)
+	at org.wildfly.extension.undertow@30.0.1.Final//org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1413)
+	at org.wildfly.extension.undertow@30.0.1.Final//org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1413)
+	at org.wildfly.extension.undertow@30.0.1.Final//org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1413)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:256)
+	at io.undertow.servlet@2.3.10.Final//io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:101)
+	at io.undertow.core@2.3.10.Final//io.undertow.server.Connectors.executeRootHandler(Connectors.java:393)
+	at io.undertow.core@2.3.10.Final//io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:859)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at org.jboss.xnio@3.8.11.Final//org.xnio.XnioWorker$WorkerThreadFactory$1$1.run(XnioWorker.java:1282)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: jakarta.faces.view.facelets.TagAttributeException: /main.xhtml @204,70 action="" Not a Valid Method Expression: 
+	at jakarta.faces.impl@4.0.4//com.sun.faces.facelets.tag.TagAttributeImpl.getMethodExpression(TagAttributeImpl.java:189)
+	at jakarta.faces.impl@4.0.4//com.sun.faces.facelets.tag.faces.ActionSourceRule$ActionMapper2.applyMetadata(ActionSourceRule.java:54)
+	at jakarta.faces.impl@4.0.4//com.sun.faces.facelets.tag.MetadataImpl.applyMetadata(MetadataImpl.java:40)
+	at jakarta.faces.impl@4.0.4//jakarta.faces.view.facelets.MetaTagHandler.setAttributes(MetaTagHandler.java:101)
+	at jakarta.faces.impl@4.0.4//jakarta.faces.view.facelets.DelegatingMetaTagHandler.setAttributes(DelegatingMetaTagHandler.java:120)
+	at jakarta.faces.impl@4.0.4//com.sun.faces.facelets.tag.faces.ComponentTagHandlerDelegateImpl.doNewComponentActions(ComponentTagHandlerDelegateImpl.java:415)
+	at jakarta.faces.impl@4.0.4//com.sun.faces.facelets.tag.faces.ComponentTagHandlerDelegateImpl.apply(ComponentTagHandlerDelegateImpl.java:154)
+	at jakarta.faces.impl@4.0.4//jakarta.faces.view.facelets.DelegatingMetaTagHandler.apply(DelegatingMetaTagHandler.java:139)
+	at jakarta.faces.impl@4.0.4//jakarta.faces.view.facelets.CompositeFaceletHandler.apply(CompositeFaceletHandler.java:57)
+	at jakarta.faces.impl@4.0.4//jakarta.faces.view.facelets.DelegatingMetaTagHandler.applyNextHandler(DelegatingMetaTagHandler.java:163)
+	at jakarta.faces.impl@4.0.4//com.sun.faces.facelets.tag.faces.ComponentTagHandlerDelegateImpl.apply(ComponentTagHandlerDelegateImpl.java:177)
+	at jakarta.faces.impl@4.0.4//jakarta.faces.view.facelets.DelegatingMetaTagHandler.apply(DelegatingMetaTagHandler.java:139)
+	at jakarta.faces.impl@4.0.4//jakarta.faces.view.facelets.CompositeFaceletHandler.apply(CompositeFaceletHandler.java:57)
+	at jakarta.faces.impl@4.0.4//jakarta.faces.view.facelets.DelegatingMetaTagHandler.applyNextHandler(DelegatingMetaTagHandler.java:163)
+	at jakarta.faces.impl@4.0.4//com.sun.faces.facelets.tag.faces.ComponentTagHandlerDelegateImpl.apply(ComponentTagHandlerDelegateImpl.java:177)
+	at jakarta.faces.impl@4.0.4//jakarta.faces.view.facelets.DelegatingMetaTagHandler.apply(DelegatingMetaTagHandler.java:139)
+	at jakarta.faces.impl@4.0.4//jakarta.faces.view.facelets.CompositeFaceletHandler.apply(CompositeFaceletHandler.java:57)
+	at jakarta.faces.impl@4.0.4//com.sun.faces.facelets.compiler.NamespaceHandler.apply(NamespaceHandler.java:52)
+	at jakarta.faces.impl@4.0.4//com.sun.faces.facelets.compiler.EncodingHandler.apply(EncodingHandler.java:46)
+	at jakarta.faces.impl@4.0.4//com.sun.faces.facelets.impl.DefaultFacelet.apply(DefaultFacelet.java:132)
+	at jakarta.faces.impl@4.0.4//com.sun.faces.application.view.FaceletViewHandlingStrategy.buildView(FaceletViewHandlingStrategy.java:331)
+	at jakarta.faces.impl@4.0.4//com.sun.faces.lifecycle.RenderResponsePhase.execute(RenderResponsePhase.java:70)
+	at jakarta.faces.impl@4.0.4//com.sun.faces.lifecycle.Phase.doPhase(Phase.java:72)
+	at jakarta.faces.impl@4.0.4//com.sun.faces.lifecycle.LifecycleImpl.render(LifecycleImpl.java:178)
+	at jakarta.faces.impl@4.0.4//jakarta.faces.webapp.FacesServlet.executeLifecyle(FacesServlet.java:692)
+	... 43 more
+Caused by: jakarta.el.ELException: Not a Valid Method Expression: 
+	at org.glassfish.expressly@5.0.0//org.glassfish.expressly.lang.ExpressionBuilder.createMethodExpression(ExpressionBuilder.java:269)
+	at org.glassfish.expressly@5.0.0//org.glassfish.expressly.ExpressionFactoryImpl.createMethodExpression(ExpressionFactoryImpl.java:80)
+	at org.jboss.weld.core@5.1.2.Final//org.jboss.weld.module.web.util.el.ForwardingExpressionFactory.createMethodExpression(ForwardingExpressionFactory.java:43)
+	at org.jboss.weld.core@5.1.2.Final//org.jboss.weld.module.web.el.WeldExpressionFactory.createMethodExpression(WeldExpressionFactory.java:56)
+	at jakarta.faces.impl@4.0.4//com.sun.faces.facelets.tag.TagAttributeImpl.getMethodExpression(TagAttributeImpl.java:183)
+	... 67 more
+
+2023-12-14 23:42:43,156 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\a5\aac07d9b634f9f3801f17a76273f21df905723\content
+2023-12-14 23:42:43,161 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-8) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:42:43,161 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 113) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 23:42:43,182 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-5) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 21ms
+2023-12-14 23:42:43,183 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-2) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 23:42:43,504 INFO  [org.jboss.weld.deployer] (MSC service thread 1-8) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 23:42:43,576 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-6) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 23:42:43,604 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-1) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:42:43,723 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 118) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 23:42:43,781 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 118) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 23:42:43,813 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 23:42:43,814 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\d3\89a343d377b720237ae8f2ba28b069bac415d6\content
+2023-12-14 23:42:46,658 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:46,738 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:46,813 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:53,175 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:53,232 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:53,288 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:53,376 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:53,436 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:53,492 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:53,548 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:53,606 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:53,661 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:53,721 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:53,777 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:53,856 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:55,108 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:55,195 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:55,256 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:55,335 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:55,400 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:55,544 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:55,605 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:55,678 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:55,752 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:55,809 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:55,866 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:55,941 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:56,019 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:42:56,113 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:43:06,221 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:43:06,420 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:43:06,495 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:43:06,554 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:43:06,610 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:43:06,667 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:43:06,727 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:43:06,798 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:43:06,898 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:43:06,900 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:43:06,997 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:43:07,020 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:43:07,110 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:43:07,140 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:43:07,226 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:43:07,258 INFO  [stdout] (default task-1) Connection completed.
+2023-12-14 23:43:07,340 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:43:07,418 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:43:07,494 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:43:07,568 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:43:07,640 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:43:07,700 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:43:07,774 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:43:07,842 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:43:07,916 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:43:07,976 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:58:58,831 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0001: Content added at location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\50\f325bc6bbdb9fccbb7b69daf3a85c8cddc201c\content
+2023-12-14 23:58:58,856 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-2) WFLYJCA0019: Stopped Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:58:58,858 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 118) WFLYUT0022: Unregistered web context: '/j1' from server 'default-server'
+2023-12-14 23:58:58,936 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-3) WFLYSRV0028: Stopped deployment j1.war (runtime-name: j1.war) in 85ms
+2023-12-14 23:58:58,941 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-5) WFLYSRV0027: Starting deployment of "j1.war" (runtime-name: "j1.war")
+2023-12-14 23:58:59,632 INFO  [org.jboss.weld.deployer] (MSC service thread 1-3) WFLYWELD0003: Processing weld deployment j1.war
+2023-12-14 23:58:59,701 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-4) WFLYJCA0005: Deploying non-JDBC-compliant driver class org.postgresql.Driver (version 42.7)
+2023-12-14 23:58:59,724 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-7) WFLYJCA0018: Started Driver service with driver-name = j1.war_org.postgresql.Driver_42_7
+2023-12-14 23:58:59,856 INFO  [jakarta.enterprise.resource.webcontainer.faces.config] (ServerService Thread Pool -- 120) Initializing Mojarra 4.0.4 for context '/j1'
+2023-12-14 23:58:59,916 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 120) WFLYUT0021: Registered web context: '/j1' for server 'default-server'
+2023-12-14 23:58:59,945 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0016: Replaced deployment "j1.war" with deployment "j1.war"
+2023-12-14 23:58:59,948 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location C:\wildfly-30.0.1.Final\wildfly-30.0.1.Final\standalone\data\content\a5\aac07d9b634f9f3801f17a76273f21df905723\content
+2023-12-14 23:59:05,296 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:59:05,360 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:59:05,410 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:59:24,651 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:59:24,696 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:59:24,743 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:59:24,810 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:59:24,854 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:59:24,900 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:59:24,955 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:59:24,999 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:59:25,046 INFO  [stdout] (default task-2) Connection completed.
+2023-12-14 23:59:25,048 INFO  [jakarta.enterprise.resource.webcontainer.faces.renderkit] (default task-2) WARNING: FacesMessage(s) have been enqueued, but may not have been displayed.
+sourceId=coordinate-form:j_idt18[severity=(ERROR 2), summary=(Y: Validation Error: Value is required.), detail=(Y: Validation Error: Value is required.)]

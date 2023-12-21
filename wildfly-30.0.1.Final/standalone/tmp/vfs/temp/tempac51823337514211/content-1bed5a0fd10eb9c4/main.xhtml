@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html     xmlns="http://www.w3.org/1999/xhtml"
+          xmlns:ui="http://java.sun.com/jsf/facelets"
+          xmlns:h="http://xmlns.jcp.org/jsf/html"
+          xmlns:f="http://xmlns.jcp.org/jsf/core"
+          xmlns:p="http://primefaces.org/ui">
+ 
+<h:head>
+    <title>Lab 3 | Main Page</title>
+    <h:outputStylesheet library="css" name="style.css"/>
+    <ui:insert name="jslinks" />
+    <ui:define name="jslinks">
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
+    </ui:define>
+</h:head>
+<h:body onload="draw();">
+    <div class="wrapper">
+        <div id="header">
+            <h3>Bakhilin Nikita Vitalyevich</h3>
+            <div class="block-links">
+                <div class="link-header">
+                    <h:outputLink value="main.xhtml"> 
+                        <h:outputText value="Coordinate Plate"/>
+                    </h:outputLink>
+                </div>
+                <div class="link-header">
+                    <h:outputLink value="index.xhtml"> 
+                        <h:outputText value="Home Page" />            
+                    </h:outputLink>
+                </div>
+            </div>
+        </div>
+        <div id="main-content">
+            <canvas id="canvas" onclick="canvasClick()" width="300" height="300"
+                    style="background: #eeeeee; border-radius: 10px"></canvas>
+           
+            <script type="text/javascript">
+                function draw() {
+                    let canvas = document.getElementById("canvas");
+
+                    let ctx = canvas.getContext("2d");
+
+                    ctx.beginPath();
+                    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+                    // setting blue color
+                    ctx.strokeStyle = "#3399ff";
+                    ctx.fillStyle = "#3399ff";
+
+                    // filling area
+                    // rectangle
+                    ctx.fillRect(canvas.width / 3, canvas.height / 2, canvas.width / 6, canvas.height / 3);
+                    ctx.moveTo(canvas.width / 2, canvas.height / 2);
+                    // 1/4 of circle
+                    ctx.arc(150, 150, 100, -3.14 / 2, 3.14, 1);
+                    ctx.fill();
+                    // triangle
+                    ctx.moveTo(150, 150);
+                    ctx.lineTo(150, 250);
+                    ctx.lineTo(250, 150);
+                    ctx.lineTo(150, 150);
+                    ctx.fill();
+
+                    // setting black color
+                    ctx.fillStyle = "black";
+                    ctx.font = "12px serif";
+
+                    // vertical 'R' marks
+                    ctx.fillText("R", canvas.width / 1.95, canvas.height / 5.5);
+                    ctx.fillText("R/2", canvas.width / 1.93, canvas.height / 2.85);
+                    ctx.fillText("-R/2", canvas.width / 1.93, canvas.height / 1.475);
+                    ctx.fillText("-R", canvas.width / 1.93, canvas.height / 1.184);
+
+                    // horizontal 'R' marks
+                    ctx.fillText("-R", canvas.width / 6.7, canvas.height / 2.05);
+                    ctx.fillText("-R/2", canvas.width / 3.38, canvas.height / 2.05);
+                    ctx.fillText("R/2", canvas.width / 1.59, canvas.height / 2.05);
+                    ctx.fillText("R", canvas.width / 1.23, canvas.height / 2.05);
+                    ctx.stroke();
+
+                    ctx.beginPath();
+                    ctx.strokeStyle = "black";
+                    // graph arrows
+                    // vertical arrow
+                    ctx.moveTo(canvas.width / 2, 0);
+                    ctx.lineTo(canvas.width / 2, canvas.height);
+                    ctx.moveTo(canvas.width / 1.95, canvas.height * 0.03);
+                    ctx.lineTo(canvas.width / 2, 0);
+                    ctx.moveTo(canvas.width / 2.05, canvas.height * 0.03);
+                    ctx.lineTo(canvas.width / 2, 0);
+                    // horizontal arrow
+                    ctx.moveTo(0, canvas.height / 2);
+                    ctx.lineTo(canvas.width, canvas.height / 2);
+                    ctx.moveTo(canvas.width * 0.97, canvas.height / 1.95);
+                    ctx.lineTo(canvas.width, canvas.height / 2);
+                    ctx.moveTo(canvas.width * 0.97, canvas.height / 2.05);
+                    ctx.lineTo(canvas.width, canvas.height / 2);
+
+                    // R unit marks
+                    // vertical marks
+                    ctx.moveTo(canvas.width / 2.04, canvas.height / 1.20);
+                    ctx.lineTo(canvas.width / 1.96, canvas.height / 1.20);
+                    ctx.moveTo(canvas.width / 2.04, canvas.height / 1.5);
+                    ctx.lineTo(canvas.width / 1.96, canvas.height / 1.5);
+                    ctx.moveTo(canvas.width / 2.04, canvas.height / 3);
+                    ctx.lineTo(canvas.width / 1.96, canvas.height / 3);
+                    ctx.moveTo(canvas.width / 2.04, canvas.height / 6);
+                    ctx.lineTo(canvas.width / 1.96, canvas.height / 6);
+
+                    // horizontal marks
+                    ctx.moveTo(canvas.width / 1.2, canvas.height / 2.04);
+                    ctx.lineTo(canvas.width / 1.2, canvas.height / 1.96);
+                    ctx.moveTo(canvas.width / 1.5, canvas.height / 2.04);
+                    ctx.lineTo(canvas.width / 1.5, canvas.height / 1.96);
+                    ctx.moveTo(canvas.width / 3, canvas.height / 2.04);
+                    ctx.lineTo(canvas.width / 3, canvas.height / 1.96);
+                    ctx.moveTo(canvas.width / 6, canvas.height / 2.04);
+                    ctx.lineTo(canvas.width / 6, canvas.height / 1.96);
+
+
+                    ctx.stroke();
+                }
+            </script>
+
+            <h:outputScript library="js" name="validPointLib.js"  target="body" />
+            <h:outputScript library="js" name="lib.js"  target="body" />
+
+            <script type="text/javascript">
+
+                const canvas = document.getElementById('canvas');
+
+                function canvasClick() {
+                    let canvas = document.getElementById('canvas');
+                    canvas.addEventListener('click', event => {
+                        // alert("R is undefined");
+                        
+                        //let r = $('input[type="text"]:checked:first').val();
+                        // if (!r) {
+                           
+                        // } else {
+                            getPoint();
+                    });
+                }
+
+                function getCoordinatePosition() {
+                    const rect = canvas.getBoundingClientRect();
+                    const x = event.clientX - rect.left
+                    const y = event.clientY - rect.top
+                    return {x: x, y: y}
+                }
+
+                function getPoint() {
+                    canvas.addEventListener('mousedown', function (e) {
+                        let data = getCoordinatePosition(canvas, e)
+
+                        let pointX = Math.round(data.x);
+                        let pointY = Math.round(data.y);
+
+                        console.log(pointX);
+                        console.log(pointY);
+
+                        let ctx = canvas.getContext("2d");
+
+                        ctx.beginPath();
+                        ctx.fillStyle = "red"
+                        ctx.arc(pointX, pointY, 5, 0, 2 * Math.PI);
+                        ctx.fill();
+                        checkPointValid(2, pointX,pointY);
+                        
+                        
+
+
+                        //document.getElementById('x').value = checkPointValid(r, pointX,pointY).pointX;
+                        //document.getElementById('y').value = checkPointValid(r, pointX,pointY).pointY;
+                        
+                        //document.getElementById('btn').click();
+                    })
+                }
+
+            </script>
+
+            <div>
+                <h:form>
+                    <h:panelGrid columns="3">
+                    
+                        <h:outputLabel>X</h:outputLabel>
+                        <h:inputText value="#{model.x}" id="x" />
+                        <br/>
+                        <h:outputLabel>Y</h:outputLabel>
+                        <h:inputText value="#{model.y}" id="y" />
+                        <br/>
+                        
+                        <h:commandButton value="Save" action="#{modelController.saveModel(model)}"/>
+                    </h:panelGrid>
+			    </h:form>
+
+
+
+                <!-- <h:form id="coordinate-form">
+                    <h:inputText value="#{model.y}" />
+                    <h:inputText value="#{model.x}" />
+                    <h:commandButton action="#{modelController.saveModel(model)}" value="submit"/> -->
+                <!-- X: 
+                    <h:selectOneMenu id="subscriptions" value="#{model.x}">
+                        <f:selectItem id="item1" itemLabel="-4" itemValue="-4" />
+                        <f:selectItem id="item2" itemLabel="-3" itemValue="-3" />
+                        <f:selectItem id="item3" itemLabel="-2" itemValue="-2" />
+                        <f:selectItem id="item4" itemLabel="-1" itemValue="-1" />
+                        <f:selectItem id="item5" itemLabel="0" itemValue="0" />
+                        <f:selectItem id="item6" itemLabel="1" itemValue="1" />
+                        <f:selectItem id="item7" itemLabel="2" itemValue="2" />
+                        <f:selectItem id="item8" itemLabel="3" itemValue="3" />
+                        <f:selectItem id="item9" itemLabel="4" itemValue="4" />
+                    </h:selectOneMenu>
+                        <h:column>
+                            Y: <h:inputText label="Y" id="y" size="10" required="true" value="#{model.y}"> 
+                                <f:validator validatorId="yValidator" />
+                                <f:validateDoubleRange minimum="-3" maximum="5"/>
+                              </h:inputText>
+                        </h:column>   
+                    
+                        <h:column>
+                            R: <h:inputText label="R" value="#{model.r}"/>
+                        </h:column>
+
+                      <h:commandButton action="#{modelController.saveModel(model)}" value="Submit"></h:commandButton> -->
+
+                        <!-- <h:commandLink id="btn1" value="1"  onclick="">
+	                        <f:param name="r" value="1" />
+                        </h:commandLink> -->
+                        <!-- <h:commandLink id="btn2"  value="2" action="#{modelController.saveModel(model)}" onclick="">
+	                        <f:param name="r" value="2" />
+                        </h:commandLink>
+                        <h:commandLink id="btn3"  value="3" action="#{modelController.saveModel(model)}" onclick="">
+	                        <f:param name="r" value="3" />
+                        </h:commandLink>
+                        <h:commandLink id="btn4"  value="4" action="#{modelController.saveModel(model)}" onclick="">
+	                        <f:param name="r" value="4" />
+                        </h:commandLink> -->
+                        
+                        <!-- <h:commandButton id="submit" value="send result" onclick="sendOnServer(model)"></h:commandButton> -->
+
+                        <!-- <h:commandScript id="submit" name="jsFunction" action="#{modelController.saveModel(model)}" />                         -->
+                        <!-- <p:remoteCommand id="jsFunction" name="jsFunction" actionListener="#{modelController.saveModel(model)}"/> -->
+                <!-- </h:form> -->
+
+                <!-- <h:dataTable value = "#{modelUtil.models}" var = "c"
+                    styleClass = "authorTable"
+                    headerClass = "authorTableHeader"
+                    rowClasses = "authorTableOddRow,authorTableEvenRow">
+                    
+                    <h:column>
+                        <f:facet name = "header">X</f:facet>
+                        #{c.x}
+                    </h:column>
+                    
+                    <h:column>
+                        <f:facet name = "header">Y</f:facet>
+                        #{c.y}
+                    </h:column>
+
+                    <h:column>
+                        <f:facet name="header">R</f:facet>
+                        #{c.r}
+                    </h:column>
+                </h:dataTable> -->
+            </div>
+        </div>
+    </div>
+</h:body>
+</html>
